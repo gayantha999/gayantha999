@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gayantha
+- 👋 Hi, I’m Gayantha Chamith
 - 👀 I’m interested in working as back end developer
 - 🌱 I’m currently learning Spring boot & flutter
 - 💞️ I’m looking to collaborate on some projects
