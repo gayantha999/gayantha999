@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gayantha Chamith
 - 👀 I’m interested in working as back end developer
-- 🌱 I’m currently learning Spring boot & flutter
-- 💞️ I’m looking to collaborate on some projects
+- 🌱 I'm currently studying as a Software Engineer undergraduate student at IIT
+- 💞️ I’m looking to collaborate on some projects 
 - 📫 Contact me on Gayantha.chamith17254@gmail.com / 0765573107
 
 <!---
