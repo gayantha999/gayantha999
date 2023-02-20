@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gayantha Chamith
+- 👋 Hi, I’m Gayantha Madhubhashana
 - 👀 I’m interested in working as back end developer
 - 🌱 I'm final year Software Engineer student at IIT
 - 💞️ I’m looking to collaborate on some projects 
