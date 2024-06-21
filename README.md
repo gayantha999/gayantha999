@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Gayantha Madhubhashana
-- 👀 I’m back end developer
-- 📫 Reach me on Gayantha.chamith17254@gmail.com / +94765573107
+
+Hi, I’m Gayantha Madhubhashana 👋
+I am a passionate back-end developer with a keen interest in creating robust and scalable web applications. I enjoy tackling complex problems and working with the latest technologies to deliver efficient solutions.
+
+📫 How to reach me:
+Email: Gayantha.chamith17254@gmail.com
+Phone: +94 76 557 3107
+Feel free to let me know if you need any adjustments or additional information!
 
 <!---
 gayantha999/gayantha999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
